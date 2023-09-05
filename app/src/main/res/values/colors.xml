@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="textColor">#FF000000</color>
+    <color name="textColorDark">#292828</color>
+    <color name="bgColor">#CCCAC8</color>
+
+    <color name="notification">#FF000000</color>
+    <color name="toolbar">#FF000000</color>
+</resources>

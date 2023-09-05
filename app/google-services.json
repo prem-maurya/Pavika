@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979952507234",
+    "project_id": "pavika-e7c8a",
+    "storage_bucket": "pavika-e7c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979952507234:android:fe002fbbf671fdf8e2743b",
+        "android_client_info": {
+          "package_name": "com.prem.pavikaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979952507234-5b68v09llmt15r15li2tlo3gjv49r4u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-vJ2vdoGsZ_B7ymHBWgWyNYz6JxHWv7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979952507234-5b68v09llmt15r15li2tlo3gjv49r4u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

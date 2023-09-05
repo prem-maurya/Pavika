@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/theme"
+        android:title="Theme"
+        android:icon="@drawable/theme"/>
+
+    <item android:id="@+id/linkedin"
+        android:icon="@drawable/linkedin"
+        android:title="Linkedin"/>
+
+    <item android:id="@+id/youtube"
+        android:icon="@drawable/youtube"
+        android:title="YouTube"/>
+
+    <item android:id="@+id/share_app"
+        android:icon="@drawable/share_app"
+        android:title="Share this app"/>
+
+    <item android:id="@+id/rateUs"
+        android:icon="@drawable/baseline_star_rate_24"
+        android:title="Rate Us"/>
+    <item android:id="@+id/privacy_policy"
+        android:icon="@drawable/ig_privacy_policy"
+        android:title="Privacy Policy"/>
+</menu>
